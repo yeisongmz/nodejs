@@ -1,7 +1,7 @@
 const express = require('express');
 const routes = require('./routes');
 const path = require('path');
-
+//path
 //crear una app de express
 const app = express();
 
