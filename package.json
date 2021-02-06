@@ -9,8 +9,7 @@
   "author": "yeison",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "pug": "^3.0.0"
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
