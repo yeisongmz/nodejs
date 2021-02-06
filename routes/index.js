@@ -9,7 +9,7 @@ module.exports = function(){
 
     //si se accede al home '/' se ejecuta la funcion dentro del controlador
     router.get('/', proyectosController.proyectosHome );
-    router.get('/nosotros', proyectosController.proyectosHome2);
+    router.get('/2', proyectosController.proyectosHome2);
     return router;
 }
 
